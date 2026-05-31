@@ -45,8 +45,8 @@ parth = {
 
 📫 &nbsp; psojitraswe@gmail.com  
 💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/parth-sojitra-84098427b/)  
-📍 &nbsp; Syracuse, NY · Open to relocation (Austin, TX preferred)
+📍 &nbsp; New York · Open to relocation 
 
 ---
 
-<sub>Looking for SWE / SDE roles starting May 2026 — early career bands. If you're hiring, let's talk.</sub>
+Looking for SWE / SDE roles starting May 2026 — early career bands. If you're hiring, let's talk.
