@@ -16,7 +16,7 @@ parth = {
 
 #### What I work on
 
-- Designing **post-training evaluation frameworks** for non-deterministic LLM outputs — accuracy, groundedness, latency metrics as structured test suites
+- Designing **post-training evaluation frameworks** for non-deterministic LLM outputs accuracy, groundedness, latency metrics as structured test suites
 - Engineering **prompt rewriting & tuning** pipelines and **RAG** retrieval strategies for production Gen AI features
 - Building backend services in **Python** and **TypeScript** with REST/GraphQL APIs, OAuth 2.0, PostgreSQL
 - Shipped systems handling **5M+ daily transactions**, cut API latency by **35%**, throughput up **32%**
