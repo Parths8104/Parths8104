@@ -17,4 +17,4 @@ $ curl -X GET https://parth.dev/api/v1/profile
 }
 ```
 
-📫 psojitraswe@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/parth-sojitra-84098427b/) &nbsp;·&nbsp; 🌐 [parthsojitra.dev](https://parthsojitra.dev)
+📫  parths@mycvwork.com &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/parth-sojitra-84098427b/) &nbsp;·&nbsp; 🌐 [parthsojitra.dev](https://parthsojitra.dev)
