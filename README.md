@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Full-Stack Software Engineer</strong> building production web apps and AI systems.<br/>
-  Currently shipping Gen AI features at iConsult Collaborative while wrapping up MS CS at Syracuse (May 2026).
+  Currently shipping Gen AI features at Capitol One and wrapped up MS CS at Syracuse (May 2026).
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ $ curl -X GET https://parth.dev/api/v1/profile
 {
   "name":       "Parth Sojitra",
   "role":       "Software Engineer",
-  "now":        "Shipping Gen AI features @ iConsult Collaborative",
+  "now":        "Shipping Gen AI features @ Capitol One",
   "education":  "MS Computer Science @ Syracuse · May 2026",
   "stack":      ["Python", "TypeScript", "FastAPI", "LangChain",
                  "OpenAI API", "React", "Next.js", "PostgreSQL", "AWS"],
